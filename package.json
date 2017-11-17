@@ -1,0 +1,28 @@
+{
+  "name": "typescriptnotes",
+  "version": "1.0.0",
+  "description": "typescript codes and notes",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DappsChainer/typescript-notes.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "mannyagbayani/dappschainer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DappsChainer/typescript-notes/issues"
+  },
+  "homepage": "https://github.com/DappsChainer/typescript-notes#readme",
+  "devDependencies": {
+    "gulp-typescript": "^3.2.3"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}

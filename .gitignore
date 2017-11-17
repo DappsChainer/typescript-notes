@@ -1,0 +1,5 @@
+# ignore txt file
+notes.txt
+
+#ignore node module
+node_modules
